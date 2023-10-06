@@ -1,7 +1,6 @@
 # BlizzCMS WoW Theme
 
 This is a BlizzCMS Official WoW Theme, this is a paid theme.
-Official thread: https://opengamescommunity.com/index.php?resources/blizzcms-wow-theme.656/
 
 Show off:
 
